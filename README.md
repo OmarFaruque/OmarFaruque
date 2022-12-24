@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Faruque</h1>
-<h3 align="center">A passionate Full-Stack PHP developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [WooCommerce Table Rate Shipping](https://wordpress.org/plugins/advanced-table-rate-shipping-for-woocommerce/)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://profiles.wordpress.org/ronymaha](https://profiles.wordpress.org/ronymaha)
 
-- 💬 Ask me about **ReactJS, VueJS & PHP**
+- 💬 Ask me about **ReactJS, VueJS, NodeJS & PHP**
 
 - 📫 How to reach me **ronymaha@gmail.com**
 
