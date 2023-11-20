@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Faruque</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Gift Share](https://giftshare.co.jp/)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/larasoft33)
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on [Currency Switcher for WooCommerce](https://wordpress.org/plugins/aco-currency-switcher-for-woocommerce/)
 
