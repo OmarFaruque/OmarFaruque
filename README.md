@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ronymaha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/omarfaruque2020/](https://www.linkedin.com/in/omarfaruque2020/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/omarfaruque2020/](https://www.linkedin.com/in/omar-faruque-bd/)
 
 - ⚡ Fun fact **I think I am funny**
 
